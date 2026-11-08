@@ -34,6 +34,7 @@ week04-driver-plugin/
 docs/
   interview-cards.md        每周产出的"面试可讲决策"卡片
   reading-log.md            阅读记录模板（按天记，防止读了个寂寞）
+  github-workflow.md        Git/GitHub 实操手册（SSH 443 配置 + 拉取/提交/分支/撤销/冲突）
 ```
 
 ## 怎么用这套笔记
