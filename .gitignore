@@ -1,0 +1,6 @@
+# 参考仓库（本地 clone 到这里，不提交）
+refs/
+*.user
+.vs/
+bin/
+obj/
